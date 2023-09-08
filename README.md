@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Iam just getting bored.**
 
-<a href="https://app.daily.dev/giriprasanth"><img src="https://api.daily.dev/devcards/52507a18a3e24055a075df24f92eaadf.png?r=2ed" width="400" alt="Giriprasanth's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/giriprasanth"><img src="https://api.daily.dev/devcards/52507a18a3e24055a075df24f92eaadf.png?r=2ed" width="400" alt="Giriprasanth's Dev Card"/></a>
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
