@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **Iam just getting bored.**
 
+<a href="https://app.daily.dev/giriprasanth"><img src="https://api.daily.dev/devcards/52507a18a3e24055a075df24f92eaadf.png?r=2ed" width="400" alt="Giriprasanth's Dev Card"/></a>
+
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://codepen.io/giriprasanth-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="giriprasanth-s" height="30" width="40" /></a>
