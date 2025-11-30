@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/giriprasanth777" target="blank"><img src="https://img.shields.io/twitter/follow/giriprasanth777?logo=twitter&style=for-the-badge" alt="giriprasanth777" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Data Engineer**
 
 - 👨‍💻 All of my projects are available at [http://giriprasanth.me](http://giriprasanth.me)
 
-- 💬 Ask me about **Front End, Python and Java**
+- 💬 Ask me about **SQL, Python, Azure, Data Bricks, Synapse, ADF, ADLS**
 
 - 📫 How to reach me **giriprasanth777@gmail.com**
 
