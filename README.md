@@ -58,25 +58,9 @@ I optimize SQL queries faster than I get bored 😄
 ---
 
 <h3 align="left">Languages & Tools:</h3>
-
-<p align="left">
-  <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python / PySpark" width="40" height="40"/>
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg)" title="SQLite" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
-
-  <!-- Big Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache Spark" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="PySpark" width="40" height="40"/>
-
-  <!-- Cloud & Data Platforms -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Microsoft Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS S3" width="40" height="40"/>
-
-  <!-- Version Control -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+<p>
+<strong>Azure:</strong> ADF, ADLS Gen2, Azure Databricks &nbsp; | &nbsp;
+<strong>Big Data:</strong> Apache Spark, PySpark &nbsp; | &nbsp;
+<strong>Databases:</strong> SQL Server, MongoDB, SQLite
 </p>
 
