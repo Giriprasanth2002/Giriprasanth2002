@@ -61,6 +61,14 @@ I optimize SQL queries faster than I get bored 😄
 <p>
 <strong>Azure:</strong> ADF, ADLS Gen2, Azure Databricks &nbsp; | &nbsp;
 <strong>Big Data:</strong> Apache Spark, PySpark &nbsp; | &nbsp;
-<strong>Databases:</strong> SQL Server, MongoDB, SQLite
+<strong>Databases:</strong> SQL Server, MongoDB, SQLite &nbsp; | &nbsp;
+<strong>Version Control:</strong> TFS, Git
+</p>
+
+---
+
+<h3 align="left">Domain & Area Of Expertise:</h3>
+<p>
+<strong>Finance & Banking &nbsp; | &nbsp;
 </p>
 
