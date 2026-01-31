@@ -75,6 +75,6 @@ I optimize SQL queries faster than I get bored 😄
 
 <h3 align="left">Domain & Area Of Expertise:</h3>
 <p>
-<strong>Finance & Banking &nbsp; | &nbsp;
+<strong>Finance & Banking
 </p>
 
