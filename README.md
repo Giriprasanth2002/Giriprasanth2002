@@ -6,13 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=giriprasanth2002&theme=onedark&margin-w=15"
-      alt=""
-      width="100%"
-    />
-  </a>
+  <a href="https://app.daily.dev/giriprasanth"><img src="https://api.daily.dev/devcards/v2/sqy3gu8XhBVpH7uPOBh2i.png?type=default&r=jos" width="356" alt="Giriprasanth's Dev Card"/></a>
 </p>
 
 ---
