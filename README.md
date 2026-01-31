@@ -62,7 +62,7 @@ I optimize SQL queries faster than I get bored 😄
 <p align="left">
   <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python / PySpark" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg)" title="SQLite" width="40" height="40"/>
 
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="40" height="40"/>
