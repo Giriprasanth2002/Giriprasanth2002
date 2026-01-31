@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=giriprasanth2002&label=Profile%20views&color=0e75b6&style=flat" alt="giriprasanth2002" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://app.daily.dev/giriprasanth"><img src="https://api.daily.dev/devcards/v2/sqy3gu8XhBVpH7uPOBh2i.png?type=default&r=jos" width="356" alt="Giriprasanth's Dev Card"/></a>
 </p>
 
@@ -50,8 +50,8 @@ I optimize SQL queries faster than I get bored 😄
 <a href="https://linkedin.com/in/giriprasanths2002" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://www.hackerearth.com/giriprasanth777" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" />
+<a href="[https://www.hackerearth.com/giriprasanth777](https://www.hackerrank.com/profile/giriprasanth777)" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
 </a>
 </p>
 
