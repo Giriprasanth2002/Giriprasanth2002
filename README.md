@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://app.daily.dev/giriprasanth"><img src="https://api.daily.dev/devcards/v2/sqy3gu8XhBVpH7uPOBh2i.png?type=default&r=jos" width="356" alt="Giriprasanth's Dev Card"/></a>
+  <a href="https://app.daily.dev/giriprasanth"><img src="https://api.daily.dev/devcards/v2/sqy3gu8XhBVpH7uPOBh2i.png?type=default&r=eh5" width="356" alt="Giriprasanth's Dev Card"/></a>
 </p>
 
 ---
