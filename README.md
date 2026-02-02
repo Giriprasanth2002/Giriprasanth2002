@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 - 💼 Associate Software Developer with strong focus on **Data Engineering**
 - 🌱 Currently learning **Big Data, PySpark & Cloud Data Platforms**
-- 🛠️ Hands-on with **SQL Server, Python, Azure Data Services**
+- 🛠️ Hands-on with **SQL Server(SSMS,SSIS), Python, Azure Data Services**
 - 🎯 Target role: **Data Engineer / Data Platform Engineer**
 
 ---
@@ -65,7 +65,7 @@ I optimize SQL queries faster than I get bored 😄
 <strong>Big Data:</strong> Apache Spark, PySpark 
 </p>
 <p>
-<strong>Databases:</strong> SQL Server, MongoDB, SQLite 
+<strong>Databases:</strong> SQL Server (SSMS,SSIS), MongoDB, SQLite 
 </p>
 <p>
 <strong>Version Control:</strong> TFS, Git
