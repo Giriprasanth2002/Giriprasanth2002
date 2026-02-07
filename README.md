@@ -59,7 +59,7 @@ I optimize SQL queries faster than I get bored 😄
 
 <h3 align="left">Languages & Tools:</h3>
 <p>
-<strong>Azure:</strong> ADF, ADLS Gen2, Azure Databricks 
+<strong>Azure:</strong> ADF, ADLS Gen2, Databricks, AWS S3, AWS EMR
 </p>
 <p>
 <strong>Big Data:</strong> Apache Spark, PySpark 
